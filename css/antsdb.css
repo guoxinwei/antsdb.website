@@ -1,0 +1,17 @@
+#content {background-color: white; padding-bottom: 6em;}
+#footer { 
+	padding: 1em inherit; 
+	/*background-color: gray;*/
+	color: gray; 
+	a{border:0;color:silver}
+}
+
+#HomepageTitle {
+	background: url(../images/hm_brg.jpg) no-repeat center 35%;
+	color: white;
+	height: 400px;
+}
+#HomepageTitle h1 {font-size: 5em; margin-top: 1.5em; margin-left: 10%}
+#HomepageTitle p {font-size: 1.6em;margin-left: 10%}
+
+#features li {font-size: 1.3em;}
